@@ -27,3 +27,6 @@ TLDR plots answering the queries raised above:
 
 ![png](output_32_1.png)
 
+4: Subplots covering tweet times and device source variation:
+
+![png](plot_temporal_2.png)
