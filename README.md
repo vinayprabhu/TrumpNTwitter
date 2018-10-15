@@ -1,7 +1,7 @@
 
 # Temporality of POTUS' tweets:
 
-I am currently enrolled in this course at Stanford continuing studies school titled: _POL 35 â€” Journalism Under Siege? Truth and Trust in a Time of Turmoil_ (Course link: https://continuingstudies.stanford.edu/courses/liberal-arts-and-sciences/journalism-under-siege-truth-and-trust-in-a-time-of-turmoil/20181_POL-35) 
+I am currently enrolled in this course at Stanford continuing studies school titled: _POL 35 - Journalism Under Siege? Truth and Trust in a Time of Turmoil_ (Course link: https://continuingstudies.stanford.edu/courses/liberal-arts-and-sciences/journalism-under-siege-truth-and-trust-in-a-time-of-turmoil/20181_POL-35) 
 
 Week-2 of the course covered the topic "Power to the People: Holding the Powerful Accountable". During the second half of the class, two journalists Sally Buzbee (Executive Editor, The Associated Press) and  Daniel Dale (Correspondent, The Toronto Star) referred to some of the new challenges that have emerged during President-45's administration. They spoke of three aspects of the tweet-storm that emanated from the POTUS himself: _Velocity_, _Source_ and _Timing_
 
