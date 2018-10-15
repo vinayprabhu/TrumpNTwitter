@@ -10,7 +10,7 @@ With regards to the temporal aspects, I was exposed to these interesting claims 
 
 Below, I study and quantify this claim in terms of numbers.
 
-The notebook used to reproduce these results are [here:] (https://github.com/vinayprabhu/TrumpNTwitter/blob/master/Trump%20tweets%20and%20Fox%20and%20friends.ipynb)
+The notebook used to reproduce these results are [here](https://github.com/vinayprabhu/TrumpNTwitter/blob/master/Trump%20tweets%20and%20Fox%20and%20friends.ipynb)
 
 TLDR plots:
 
