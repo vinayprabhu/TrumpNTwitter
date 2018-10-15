@@ -23,5 +23,7 @@ TLDR plots answering the queries raised above:
 ![png](plot_temporal.png)
 
 3: Heat-plot:
+
+
 ![png](output_32_1.png)
 
