@@ -12,11 +12,16 @@ Below, I study and quantify this claim in terms of numbers.
 
 The notebook used to reproduce these results are [here](https://github.com/vinayprabhu/TrumpNTwitter/blob/master/Trump%20tweets%20and%20Fox%20and%20friends.ipynb)
 
-TLDR plots:
+TLDR plots answering the queries raised above:
+
+1: Device source 
 
 ![png](output_21_0.png)
 
+2: Temporal aspect
+
 ![png](plot_temporal.png)
 
+3: Heat-plot:
 ![png](output_32_1.png)
 
